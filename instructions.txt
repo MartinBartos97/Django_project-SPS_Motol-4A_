@@ -1,0 +1,18 @@
+"""
+A - Django project creation
+
+1. Set python interpreter and activate venv
+2. Install django ( command: pip install django)
+3. Create django project ( command: django-admin startproject <name_of_your_project> )
+4. Change directory in terminal to the one with manage.py file ( cd <name_of_your_project> )
+5. Start localserver app, just to see if it works ( py manage.py runserver )
+6. Open the http://127.0.0.1:8000 - if you see rocket, everything worked as intended
+7. Kill the server with ctrl + C
+
+
+B - Django app creation
+
+
+
+
+"""
